@@ -1,0 +1,6 @@
+var ism = prompt("Ismingizni kiriting")
+var savol = prompt("Familangiz kiriting")
+var savol = prompt("Yoshingizni kiriting")
+var savol = prompt("O'qiysizmi yoki ishlaysizmi")
+var savol = prompt("Yoqtirgan faningizni kiriting")
+var savol = prompt("Yashaydigan joyingizni kiriting")
